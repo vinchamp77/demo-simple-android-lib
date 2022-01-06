@@ -60,5 +60,6 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.4.0'
     implementation 'androidx.activity:activity-compose:1.4.0'
 
-    implementation project(':SydneySuburbs')
+    //implementation project(':SydneySuburbs')
+    implementation 'com.github.vinchamp77:demo-simple-android-lib:0.0.0'
 }
