@@ -16,4 +16,4 @@ object Sydney {
 - Android Studio Bumblebee or later
 
 ## Articles
-- [How to Publish Android Library on JitPack.io with GitHub?]
+- [How to Publish Android Library on JitPack.io with GitHub?](https://vtsen.hashnode.dev/how-to-publish-android-library-on-jitpackio-with-github)
