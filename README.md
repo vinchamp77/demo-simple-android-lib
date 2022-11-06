@@ -15,5 +15,9 @@ object Sydney {
 ## Requirements
 - Android Studio Bumblebee or later
 
+## Tech Stack
+- Jetpack Compose
+- JitPack.io
+
 ## Articles
 - [How to Publish Android Library on JitPack.io with GitHub?](https://vtsen.hashnode.dev/how-to-publish-android-library-on-jitpackio-with-github)
