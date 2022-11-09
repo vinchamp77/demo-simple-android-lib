@@ -45,6 +45,12 @@ android {
             excludes += '/META-INF/{AL2.0,LGPL2.1}'
         }
     }
+    publishing {
+        singleVariant("release") {
+            withSourcesJar()
+            withJavadocJar()
+        }
+    }
     namespace 'com.example.simpleandroidlibrary'
 }
 
@@ -59,6 +65,6 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
     implementation 'androidx.activity:activity-compose:1.6.1'
 
-    //implementation project(':SydneySuburbs')
-    implementation 'com.github.vinchamp77:demo-simple-android-lib:0.0.1'
+    implementation project(':SydneySuburbs')
+    //implementation 'com.github.vinchamp77:demo-simple-android-lib:0.0.2'
 }
