@@ -13,7 +13,7 @@ object Sydney {
 - This very [simple app](https://github.com/vinchamp77/demo-simple-android-lib/tree/master/app) (part of this library) gives a quick example to use the library.
 
 ## Requirements
-- Android Studio Dolphin or later
+- Android Studio Flamingo or later
 
 ## Tech Stack
 - Jetpack Compose
